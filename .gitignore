@@ -72,3 +72,24 @@ Thumbs.db
 .coverage.*
 test-results/
 playwright-report/
+
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
