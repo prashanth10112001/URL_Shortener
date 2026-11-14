@@ -1,6 +1,10 @@
 fastapi[standard]
-sqlalchemy
 python-jose[cryptography]
 argon2-cffi
 uv
 python-dotenv
+sqlalchemy
+sqlmodel
+psycopg[binary]
+alembic
+pydantic-settings
